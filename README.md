@@ -2,11 +2,11 @@
 
 <h1 align="center">
   <a href='https://git.io/typing-svg'>
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Betelhem!;" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!+👋;+I'm+Betelhem!;+Software developer from Ethiopia;" />
   </a>
 </h1>
 
-<h3 align="center">Software developer from Ethiopia</h3>
+<!--<h3 align="center">Software developer from Ethiopia</h3>-->
 
 <br/>
 
