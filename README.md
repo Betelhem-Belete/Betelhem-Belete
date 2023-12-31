@@ -39,7 +39,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,github,figma,tailwind,docker" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,github,figma,tailwind,docker" /> <br />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,java,mysql,django" /><br>
 </div>
 
@@ -65,8 +65,8 @@
   <br/>
   
   <!-- Top Languages -->
-  <!--<img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betelhem-belete&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
-</div>-->
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betelhem-belete&hide=HTML&hide=CSS&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+</div>
 
 <!--<hr/>
 
