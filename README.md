@@ -65,7 +65,7 @@
   <br/>
   
   <!-- Top Languages -->
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betelhem-belete&hide=HTML&hide=CSS&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betelhem-belete&hide=CSS&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
 </div>
 
 <!--<hr/>
