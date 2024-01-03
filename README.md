@@ -14,7 +14,7 @@
  
  🔭 I’m currently working on **MERN stack**
  
- 🌱 I’m currently learning **Firebase**
+ 🌱 I’m currently learning **Python**
 
 💬 Ask me about **Node.js, React,... or anything [here](https://github.com/Betelhem-Belete/Betelhem-Belete/issues)**
 
