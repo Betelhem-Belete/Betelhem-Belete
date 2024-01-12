@@ -18,7 +18,7 @@
 
 💬 Ask me about **Node.js, React,... or anything [here](https://github.com/Betelhem-Belete/Betelhem-Belete/issues)**
 
-⚡ Fun fact \*\*\*\*
+<!--⚡ Fun fact \*\*\*\*-->
 
  </div>
  
