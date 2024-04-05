@@ -12,11 +12,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **MERN stack**
+ 🔭 I’m currently working on **Nestjs**
  
  🌱 I’m currently learning **Python**
 
-💬 Ask me about **Node.js, React,... or anything [here](https://github.com/Betelhem-Belete/Betelhem-Belete/issues)**
+💬 Ask me about **anything [here](https://github.com/Betelhem-Belete/Betelhem-Belete/issues)**
 
 <!--⚡ Fun fact \*\*\*\*-->
 
